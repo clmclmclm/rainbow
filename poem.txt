@@ -10,6 +10,8 @@ green
 
 red
 
+orange
+
 yellow
 
 these are the colors of the rainbow.
